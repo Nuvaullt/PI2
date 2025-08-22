@@ -2,7 +2,7 @@
   "name": "Nuvault",
   "ticker": "NUV",
   "description": "A new kind of vault for your future",
-  "homepage": "https://raw.githubusercontent.com/Nuvaullt/PI/main/pm2.json",
+  "homepage": "https://nuvaullt.com",
   "relays": [
     {
       "ipv4": "51.171.77.58",
